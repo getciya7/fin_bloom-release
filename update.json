@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
+  "versionCode": 8,
+  "versionName": "1.6.1",
   "apk": "finbloom.apk",
-  "sha256": "39711c3edae0d59fa683dea95890f9d62cd5437b4d9eb0ecf0c16865b942159d",
+  "sha256": "2605df2291ea7fb1c0297c98a1db540304245afd6e23800e15efda95fef92f82",
   "size": 18607251,
-  "notes": "Search, limits, export and glass calendar"
+  "notes": "Separate seetu and loan payments from monthly balance"
 }
