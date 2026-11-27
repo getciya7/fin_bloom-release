@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.8.0",
+  "versionCode": 12,
+  "versionName": "1.8.1",
   "apk": "finbloom.apk",
-  "sha256": "3878d6360a8bfef4cddf7bd162458eb4279683ad57b870739783c7eeb63d5681",
-  "size": 19026336,
-  "notes": "New: app lock with PIN, pattern, phone lock or fingerprint. Money lent, money you hold for others, and your assets including gold, visible only to you. Owners can remove a member's access, and you can delete your account. New logo and savings progress for seetu and goals."
+  "sha256": "fda6817e36bf8a6a08ceb6f5167d8bfc5e392f5558bd3052b976e590c4130362",
+  "size": 19042720,
+  "notes": "Savings and Reports show a grand total of seetu, goals and assets, with each category. A refresh button in every header. Deleting a goal can remove the money saved towards it, and a single saving can be removed from a goal. No more dark layer when tapping."
 }
