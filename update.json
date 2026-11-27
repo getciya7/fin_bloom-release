@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
+  "versionCode": 7,
+  "versionName": "1.6.0",
   "apk": "finbloom.apk",
-  "sha256": "a4782097a8b067c77d33f6ea3d0a0799b229fddba9ed3a6ffbe9ca4aa0bdcd81",
-  "size": 18541675,
-  "notes": "Liquid glass design"
+  "sha256": "39711c3edae0d59fa683dea95890f9d62cd5437b4d9eb0ecf0c16865b942159d",
+  "size": 18607251,
+  "notes": "Search, limits, export and glass calendar"
 }
