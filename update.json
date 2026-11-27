@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6.1",
+  "versionCode": 9,
+  "versionName": "1.6.2",
   "apk": "finbloom.apk",
-  "sha256": "2605df2291ea7fb1c0297c98a1db540304245afd6e23800e15efda95fef92f82",
-  "size": 18607251,
-  "notes": "Separate seetu and loan payments from monthly balance"
+  "sha256": "1a9691af3d815e3e1ced8d840200d82bca96a307efe449092f28d60e72575e08",
+  "size": 18623635,
+  "notes": "Sticky header and smoother tabs"
 }
