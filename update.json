@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 5,
+  "versionName": "1.4.0",
   "apk": "finbloom.apk",
-  "sha256": "358f9f1fc08201169b8e6b7030486528695241f3102a16e35dd233e75f1da335",
-  "size": 18250563,
-  "notes": "Month close, EMI tracker and payment reminders"
+  "sha256": "2f2b00c8f963c6a4dbb5f3675037cd8ea160abde5542164f9e46757dc718108e",
+  "size": 18525295,
+  "notes": "New design and easier money entry"
 }
