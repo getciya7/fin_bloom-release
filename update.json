@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
+  "versionCode": 6,
+  "versionName": "1.5.0",
   "apk": "finbloom.apk",
-  "sha256": "2f2b00c8f963c6a4dbb5f3675037cd8ea160abde5542164f9e46757dc718108e",
-  "size": 18525295,
-  "notes": "New design and easier money entry"
+  "sha256": "a4782097a8b067c77d33f6ea3d0a0799b229fddba9ed3a6ffbe9ca4aa0bdcd81",
+  "size": 18541675,
+  "notes": "Liquid glass design"
 }
