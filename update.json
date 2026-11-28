@@ -1,8 +1,98 @@
 {
-  "versionCode": 12,
-  "versionName": "1.8.1",
+  "versionCode": 13,
+  "versionName": "1.9.0",
   "apk": "finbloom.apk",
-  "sha256": "fda6817e36bf8a6a08ceb6f5167d8bfc5e392f5558bd3052b976e590c4130362",
-  "size": 19042720,
-  "notes": "Savings and Reports show a grand total of seetu, goals and assets, with each category. A refresh button in every header. Deleting a goal can remove the money saved towards it, and a single saving can be removed from a goal. No more dark layer when tapping."
+  "sha256": "9b9ded1c2ce00d7f653b6734803787c6994a8ad893817c6420fc78674882469c",
+  "size": 19075488,
+  "notes": "Goals now run between two dates, with the amount to save each day, week or month. Month-by-month plan, ahead or behind status, and the date you will finish at your pace. What-if calculator and one-tap saving of today's amount. Today's gold rate can be fetched automatically with your own free Apify token. This update window now lists what changed in every version you missed.",
+  "history": [
+    {
+      "versionCode": 13,
+      "versionName": "1.9.0",
+      "points": [
+        "Goals now run between two dates, with the amount to save each day, week or month",
+        "Month-by-month plan, ahead or behind status, and the date you will finish at your pace",
+        "What-if calculator and one-tap saving of today's amount",
+        "Today's gold rate can be fetched automatically with your own free Apify token",
+        "This update window now lists what changed in every version you missed"
+      ]
+    },
+    {
+      "versionCode": 12,
+      "versionName": "1.8.1",
+      "points": [
+        "Savings and Reports show a grand total of seetu, goals and assets, by category",
+        "Refresh button in the headers",
+        "Deleting a goal can remove its saved money, and single savings can be removed",
+        "No more dark layer when tapping"
+      ]
+    },
+    {
+      "versionCode": 11,
+      "versionName": "1.8.0",
+      "points": [
+        "App lock with PIN, pattern, phone lock or fingerprint",
+        "Money lent and money you hold for others, visible only to you",
+        "My assets: gold at today's value, investments, bank and cash",
+        "Remove a household member's access, or delete your account",
+        "New logo, and savings progress for seetu and goals"
+      ]
+    },
+    {
+      "versionCode": 9,
+      "versionName": "1.6.2",
+      "points": [
+        "Headers stay in place while scrolling",
+        "Smoother bottom tabs"
+      ]
+    },
+    {
+      "versionCode": 8,
+      "versionName": "1.6.1",
+      "points": [
+        "Seetu and loan payments no longer change the monthly balance"
+      ]
+    },
+    {
+      "versionCode": 7,
+      "versionName": "1.6.0",
+      "points": [
+        "Search",
+        "Category spending limits and insights",
+        "Export reports",
+        "Glass-style calendar",
+        "Amounts show commas while typing"
+      ]
+    },
+    {
+      "versionCode": 6,
+      "versionName": "1.5.0",
+      "points": [
+        "Liquid glass design across the app"
+      ]
+    },
+    {
+      "versionCode": 5,
+      "versionName": "1.4.0",
+      "points": [
+        "New design with side menu and easier money entry"
+      ]
+    },
+    {
+      "versionCode": 3,
+      "versionName": "1.2.0",
+      "points": [
+        "Month close",
+        "EMI tracker",
+        "Payment reminders"
+      ]
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.1.0",
+      "points": [
+        "Updates are delivered inside the app"
+      ]
+    }
+  ]
 }
