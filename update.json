@@ -1,11 +1,21 @@
 {
-  "versionCode": 13,
-  "versionName": "1.9.0",
+  "versionCode": 14,
+  "versionName": "1.10.0",
   "apk": "finbloom.apk",
-  "sha256": "9b9ded1c2ce00d7f653b6734803787c6994a8ad893817c6420fc78674882469c",
-  "size": 19075488,
-  "notes": "Goals now run between two dates, with the amount to save each day, week or month. Month-by-month plan, ahead or behind status, and the date you will finish at your pace. What-if calculator and one-tap saving of today's amount. Today's gold rate can be fetched automatically with your own free Apify token. This update window now lists what changed in every version you missed.",
+  "sha256": "39a0be6dc1d724d383f0209635b84e8fb88315d959a038b57a53f9071f1ae000",
+  "size": 19091912,
+  "notes": "One button fetches today's gold rate, with a loading animation. The new rate appears by itself, with how much it rose or fell. Profit in green and loss in red for your gold, investments and each item. The gold rate token can be sent from your PC instead of typing it.",
   "history": [
+    {
+      "versionCode": 14,
+      "versionName": "1.10.0",
+      "points": [
+        "One button fetches today's gold rate, with a loading animation",
+        "The new rate appears by itself, with how much it rose or fell",
+        "Profit in green and loss in red for your gold, investments and each item",
+        "The gold rate token can be sent from your PC instead of typing it"
+      ]
+    },
     {
       "versionCode": 13,
       "versionName": "1.9.0",
